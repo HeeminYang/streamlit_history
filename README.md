@@ -1,4 +1,4 @@
-# streamlit_labeling
+# Code: streamlit labeling
 Labeling 도구 개발을 위한 streamlit code이다.
 This is streamlit code for developing a labeling tool.
 
