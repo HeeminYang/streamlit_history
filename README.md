@@ -5,7 +5,7 @@ This is streamlit code for developing a labeling tool.
 ## Pre-requisites
 Run the following commands to clone this repository and install the required packages.
 ```bash
-git clone https://github.com/DigitalHealthcareLab/---.git
+git clone https://github.com/HeeminYang/streamlit_labeling.git
 pip install -r requirements.txt
 ```
 
